@@ -9,8 +9,8 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 ***
 
 ### 📱 Social's Links
-[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/robin-thijsen-61004a252/)
-[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/RobinThijsen)
+[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/abdoulaye-bayo-220502276/)
+[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/Abdoulaye33)
 
 #
 ### 🧰 Languages and Tools
@@ -20,21 +20,19 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br />
 
 #
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian)
+![Abdoulaye GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdoulaye33&show_icons=ture&theme=prussian)
 
 ***
 
 ### What's this?
 ```js
-let human = new Human("Robin", "Thijsen", 22, true, "frontend")
+let human = new Human("Abdoulaye", "Bayo", 22, true, "frontend", "Backend")
 human.isHungry()
 // => yes, he is! Here is a bit of crisps
 human.getFirstName()
