@@ -32,7 +32,7 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 
 ### What's this?
 ```js
-let human = new Human("Abdoulaye", "Bayo", 22, true, "frontend", "Backend")
+let human = new Human("Abdoulaye", "Bayo", 19, true, "frontend", "Backend")
 human.isHungry()
 // => yes, he is! Here is a bit of crisps
 human.getFirstName()
