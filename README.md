@@ -36,7 +36,7 @@ let human = new Human("Abdoulaye", "Bayo", 19, true, "frontend", "Backend")
 human.isHungry()
 // => yes, he is! Here is a bit of crisps
 human.getFirstName()
-// => Hi! I'm Robin
+// => Hi! I'm Abdoulaye
 human.whatBestEnd()
 // => frontend for sure!
 ```
