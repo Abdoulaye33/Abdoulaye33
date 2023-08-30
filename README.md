@@ -9,8 +9,8 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 ***
 
 ### 📱 Social's Links
-[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/abdoulaye-bayo-220502276/)
 [<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/Abdoulaye33)
+[<img width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/abdoulaye-bayo-220502276/)
 
 #
 ### 🧰 Languages and Tools
